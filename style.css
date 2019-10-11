@@ -1,0 +1,110 @@
+body {
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	color: #565656;
+	background-color: #f4f4f4;
+}
+
+h1, h2, h3, h4, p, li {
+	margin: 0 0 24px;
+}
+
+p, li {
+	font-size: 16px;
+	line-height: 23px;
+}
+
+a {
+	text-decoration: none;
+}
+
+header {
+	height: 60px;
+}
+
+nav {
+	text-align: right;
+}
+
+nav a {
+	line-height: 60px;
+	margin-left: 15px;
+	color: black;
+	font-weight: 900;
+}
+
+.container {
+	margin: 0 auto;
+	width: 800px;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+h2 {
+	font-size: 55px;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+section {
+	padding: 30px 0 50px;
+}
+
+h3 img {
+	width: 50px;
+}
+
+img {
+	max-width: 100%;
+	margin: 0 auto 10px;
+}
+
+img + img {
+	margin-top: 14px;
+}
+
+img + p {
+	margin-top: 24px;
+}
+
+small {
+	display: block;
+	text-align: center;
+	font-style: italic;
+}
+
+small + p {
+	margin-top: 24px;
+}
+
+p:last-child {
+	margin-bottom: 0;
+}
+
+footer {
+	padding: 30px 0;
+	background-color: black;
+	text-align: center;
+	color: white;
+}
+
+footer a {
+	color: white;
+}
+
+.bg-white {
+	background-color: white;
+}
+
+iframe {
+	margin-bottom: 10px;
+}
+
+.logo {
+	width: 100px;
+	line-height: 90px;
+}
